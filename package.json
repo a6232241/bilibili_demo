@@ -74,7 +74,7 @@
     "koa-views": "^5.2.1",
     "koa2-cors": "^2.0.3",
     "mysql": "^2.18.1",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "pug": "^2.0.0-rc.1",
     "redis": "^2.8.0",
     "request": "^2.83.0",
